@@ -6,10 +6,10 @@ Proceso NotaEstudiante
 	Leer nota
 	
 	Si nota >= 6 Entonces
-		Escribir "Aprobado"
+		Escribir "Aprobado ;)"
 	SiNo
 		Si nota <= 4 Entonces
-			Escribir "Reprobado"
+			Escribir "Reprobado pipipipipipiiii"
 		SiNo
 			Escribir "Recuperacion"
 		FinSi
