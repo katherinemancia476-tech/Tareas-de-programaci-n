@@ -1,0 +1,16 @@
+Algoritmo Divisible3o5Casual
+    Definir numero Como Entero
+	
+    Repetir
+        Escribir "Pon un número cualquiera:"
+        Leer numero
+		
+        Si numero MOD 3 = 0 O numero MOD 5 = 0 Entonces
+            Escribir "¡Verdadero! Cumple con ser divisible por 3 o 5"
+        SiNo
+            Escribir "Falso, no es divisible ni por 3 ni por 5"
+        FinSi
+		
+    Hasta Que numero MOD 3 = 0 O numero MOD 5 = 0
+	
+FinAlgoritmo
