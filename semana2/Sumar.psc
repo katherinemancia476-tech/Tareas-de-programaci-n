@@ -1,6 +1,6 @@
 Algoritmo Sumar
 	//solicitar al usuario
-	//queingrese dos números enteros
+	//queingrese dos nÃºmeros enteros
 	//y mostrar la suma de ambos.
 	Definir NumeroEntrada1, NumeroEntrada2, numeroTotal Como Entero
 	
@@ -10,7 +10,7 @@ Algoritmo Sumar
 	Escribir "ingrese un numero para sumar"
 	leer NumeroEntrada2
 	
-	// Las condiciones lógicas son las que nos van a decir si es verdadero o falso
+	// Las condiciones lÃ³gicas son las que nos van a decir si es verdadero o falso
 	// and
 	// or
 	// not >
