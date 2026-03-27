@@ -1,5 +1,5 @@
 Algoritmo variables
-	// es un segmento del c骴igo que
+	// es un segmento del c贸digo que
 	// nos va a indicar que elementos
 	// tenemos en memoria
 	Definir sumando, sumando1,sumando2 Como Entero
@@ -27,7 +27,7 @@ Algoritmo variables
 	sumando1 = 4
 	resultado = sumando * sumando1
 	
-	Escribir " el resultado de la multiplicaci髇 es " , resultado 
+	Escribir " el resultado de la multiplicaci贸n es " , resultado 
 	
 	
 	sumando	= 20
@@ -41,7 +41,7 @@ Algoritmo variables
 	sumando1 = 4
 	resultado = sumando / sumando1
 	
-	Escribir " el resultado de la divisi髇 es " , resultado
+	Escribir " el resultado de la divisi贸n es " , resultado
 	
 	
 	
@@ -58,9 +58,9 @@ Algoritmo variables
 	// divisiones
 	// mod
 	
-	// and unir, cosas en com鷑, verdadero
+	// and unir, cosas en com煤n, verdadero
 	// o es falso en el and los 2 deben ser verdaderos
-	// or que es una uni髇 entre los elementos pero no es necesario que
+	// or que es una uni贸n entre los elementos pero no es necesario que
 	// los 2 sean verdaderos
 	//not
 FinAlgoritmo
